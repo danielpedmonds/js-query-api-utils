@@ -1,0 +1,8 @@
+# Log files #
+*.log
+
+# Package Files #
+*.jar
+
+# Dependencies #
+node_modules

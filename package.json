@@ -1,0 +1,17 @@
+{
+  "name": "js-query-client-utils",
+  "version": "0.3.0",
+  "description": "A set of client utility classes that offer query parameter building with pagination, filtering and sorting",
+  "license": "MIT",
+  "author": "Daniel Edmonds (danielpedmoningds)",
+  "repository": "https://github.com/danielpedmonds/js-query-api-utils.git",
+  "main": "./lib/apiQueryParamaters.js",
+  "keywords": [],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "v6.0.0-1"
+  }
+}
